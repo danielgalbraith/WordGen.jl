@@ -1,5 +1,7 @@
 # WordGen.jl
 
+EDITING IN PROGRESS (WILL UPLOAD SCRIPT SOON)
+
 A version of the WordGen script written in Julia.
 
 This sample script has the following features:
