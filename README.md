@@ -1,6 +1,6 @@
 # WordGen.jl
 
-EDITING IN PROGRESS (WILL UPLOAD SCRIPT SOON)
+*** EDITING IN PROGRESS AS OF 12/2/17 (WILL UPLOAD SCRIPT SOON) ***
 
 A version of the WordGen script written in Julia.
 
