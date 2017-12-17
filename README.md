@@ -1,7 +1,5 @@
 # WordGen.jl
 
-*** EDITING IN PROGRESS AS OF 12/2/17 (WILL UPLOAD SCRIPT SOON) ***
-
 A version of the WordGen script written in Julia.
 
 This sample script has the following features:
@@ -14,3 +12,5 @@ This sample script has the following features:
 6. Output file format: .txt with newline for each word; syllables separated by dot
 
 These default settings can be changed by altering the phoneme inventory and weights, or by changing the number of lines/syllables in the output.
+
+Credit to Zach Sunberg for helping clean up the Julia code.
